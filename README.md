@@ -72,6 +72,7 @@ Podemos ver un ejemplo de esto en el siguiente codigo
 
 En spanglish un “chunk” es un bloque de memoria que se asigna vía malloc, este bloque contiene la información (metadata) de el mismo. Una de las propiedades del HEAP es que sus bloques contienen la información de sí mismos. Esto permite crear listas simples o enlazadas de información en la memoria y de esta forma cada “chunk” puede contener la información de su tamaño, bloque previo, siguiente, si está liberado o no, etc.
 Diagrama de un chunk:
+```
 
     chunk-> +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
             |             Size of previous chunk, if unallocated (P clear)  |
@@ -87,6 +88,7 @@ nextchunk-> +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
             +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
             |             Size of next chunk, in bytes                |A|0|1|
             +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+```
             
             **source** https://heap-exploitation.dhavalkapil.com/diving_into_glibc_heap/malloc_chunk
 

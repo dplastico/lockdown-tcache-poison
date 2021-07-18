@@ -22,11 +22,11 @@ Cualquier versión, estaré utilizando ubuntu 20.04 pero cualquiera debería ser
 
 **PWNDBG**
 
-instalar [pwndbg](https://github.com/pwndbg/pwndbg)
+> instalar [pwndbg](https://github.com/pwndbg/pwndbg)
 
 **Un editor de texto**
 
-vim, nano, vscode, sublime, mousepad, etc.
+> vim, nano, vscode, sublime, mousepad, etc.
 
 # Instrucciones
 

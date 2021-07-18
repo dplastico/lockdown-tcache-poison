@@ -116,7 +116,7 @@ Cualquier duda consultarme a @dplastico
 
 [tcache poison paper de Silvio Cesare](https://drive.google.com/file/d/1XpdruvtC1qW0OKLxO8FaqU9XCl8O_SON/view)
 
-[Azeria HEAP xpl, for ARM, but same concepts](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
+[Azeria HEAP xpl, para ARM, pero los mismos conceptos](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
 
 [c4e](https://c4ebt.github.io/)
 

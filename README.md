@@ -107,9 +107,15 @@ Cualquier duda consultarme a @dplastico
 
 # Referencias y recursos
 [How2heap](https://github.com/shellphish/how2heap)
+
 [Mathias F Rorvik master](https://www.duo.uio.no/bitstream/handle/10852/69062/7/mymaster.pdf)
+
 [tcache poison paper de Silvio Cesare](https://drive.google.com/file/d/1XpdruvtC1qW0OKLxO8FaqU9XCl8O_SON/view)
+
 [Azeria HEAP xpl, for ARM, but same concepts](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
+
 [c4e](https://c4ebt.github.io/)
-[Max Kamperofrece cursos de explotacion de HEAP y por supuesto ROPemporium](https://ropemporium.com)
+
+[Max Kamper ofrece cursos de explotacion de HEAP y por supuesto ROPemporium](https://ropemporium.com)
+
 [sitio personal](https://github.dplastico.io)

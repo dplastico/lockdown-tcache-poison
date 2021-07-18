@@ -9,15 +9,19 @@ Es necesario también considerar que el siguiente texto está parcialmente redac
 # Requisitos
 
 **LINUX**
+
 Cualquier versión, estaré utilizando ubuntu 20.04 pero cualquiera debería servir.
 
 **GDB**
+
 > sudo apt install gdb
 
 **PWNTOOLS**
+
 > pip install pwntools
 
 **Un editor de texto**
+
 vim, nano, vscode, sublime, mousepad, etc.
 
 # Instrucciones

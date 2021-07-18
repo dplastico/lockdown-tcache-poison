@@ -20,6 +20,10 @@ Cualquier versión, estaré utilizando ubuntu 20.04 pero cualquiera debería ser
 
 > pip install pwntools
 
+**PWNDBG**
+
+instalar [pwndbg](https://github.com/pwndbg/pwndbg)
+
 **Un editor de texto**
 
 vim, nano, vscode, sublime, mousepad, etc.
@@ -99,6 +103,7 @@ En GLIBC 2.26 tcache fue introducido, La idea de tcache, es ganar rendimiento. E
 Esta mejora en rendimiento trajo consigo algunos problemas de seguridad que habían sido previamente solucionados con parches anteriores, reviviendo ciertas técnicas de explotación.
 
 ![tcache](https://i.imgur.com/O41t29O.png)
+
 **source** [Heap Bible by Max Kamper](https://www.udemy.com/course/linux-heap-exploitation-part-1/)
 
 # Tcache poison
